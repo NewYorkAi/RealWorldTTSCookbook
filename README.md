@@ -9,12 +9,14 @@ Welcome to the RealWorld TTS Cookbook repository, your go-to guide for convertin
 
 To download the RealWorld TTS Cookbook notebook directly, follow these steps:
 
-Navigate to the notebook in the repository or click here to go directly to the notebook page.
-Click on the "Raw" button located at the top right of the notebook content.
-Once the raw file view is opened, right-click on the page and select "Save As..." to download the .ipynb file to your computer.
-Alternatively, you can also use the following GitHub link to access the raw version directly for downloading:
+1. Navigate to the notebook in the repository or click [here](https://github.com/NewYorkAi/RealWorldTTSCookbook/blob/main/RealWorld_TTS_Cookbook.ipynb) to go directly to the notebook page.
+2. Click on the "Raw" button located at the top right of the notebook content.
+3. Once the raw file view is opened, right-click on the page and select "Save As..." to download the `.ipynb` file to your computer.
+
+Alternatively, you can also use the following link to access the raw version directly for downloading:
 
 https://github.com/NewYorkAi/RealWorldTTSCookbook/raw/main/RealWorld_TTS_Cookbook.ipynb
+
 
 Copy and paste this URL into a new browser tab, and the download should start automatically.
 
