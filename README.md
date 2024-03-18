@@ -1,8 +1,13 @@
 # RealWorldTTSCookbook
 A comprehensive guide to generating text-to-speech audio in Google Colab, designed for education, content creation, and accessibility.
+
 # RealWorld-TTS-Cookbook: A Comprehensive Guide to Text-to-Speech in Google Colab
 
 Welcome to the RealWorld TTS Cookbook repository, your go-to guide for converting text into speech using Google Colab. This project simplifies text-to-speech technology, making it accessible to a wide audience, including educators, students, hobbyists, and those interested in enhancing accessibility through technology. Leveraging the gTTS (Google Text-to-Speech) library, this guide walks you through generating and playing audio directly within Google Colab, requiring no complex setup or prerequisites.
+
+## Download the RealWorld TTS Cookbook
+
+For direct access to the RealWorld TTS Cookbook notebook, you can download it [here](https://github.com/NewYorkAi/RealWorldTTSCookbook/raw/main/RealWorld_TTS_Cookbook.ipynb).
 
 ## For Text-Voice AI Generation, This is All You Need
 
@@ -26,7 +31,7 @@ I'm actively seeking remote opportunities as an AI Engineer, ready to bring my s
 
 ## Getting Started
 
-Clone this repository and open `RealWorld_TTS_Colabbook.ipynb` in Google Colab to get started. The notebook is designed to be intuitive, guiding you through installing necessary libraries, connecting to Google Drive, and generating your first text-to-speech audio.
+Clone this repository and open `RealWorld_TTS_Cookbook.ipynb` in Google Colab to get started. The notebook is designed to be intuitive, guiding you through installing necessary libraries, connecting to Google Drive, and generating your first text-to-speech audio.
 
 ### Prerequisites
 
@@ -50,4 +55,3 @@ If you're interested in more innovative solutions to real-world problems, follow
 🌟 [NewYorkAi on GitHub](https://github.com/NewYorkAi)
 
 Thank you for exploring the RealWorld TTS Cookbook. Stay tuned for more creative and impactful AI solutions!
-
